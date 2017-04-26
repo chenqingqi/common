@@ -5,7 +5,7 @@
 require('../src/footer.js');
 require('../src/heard.js' );
 
-var index = {
+window.index = {
 	
 	name:'index',
 	
